@@ -23,11 +23,11 @@ SOFTWARE. """
 p1 = []
 
 
-# .split(" ") # .split boşluklar arası kelimlerin listelenmesi
+# .split(" ") # split içine koyulan karekter , liste içinde bölme 
 p1 = paragraf.split(" ")  
 
 for i in p1 :
-    i = i.strip(".") # koyulan karekterin dizi içinde kaldırlımsaı
+    i = i.strip(".") # koyulan karekterin liste veya dizi içinde kaldırlıması
     i = i.strip(",")
     i = i.strip("()")
     i = i.strip("\"")
