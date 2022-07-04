@@ -1,7 +1,7 @@
-Computer Users
 
 
-INTRODUCTION
+
+
 
 A computer is a device that processes data
 according to a set of instructions known
@@ -41,7 +41,7 @@ computers (PCs} although the term PC is
 usually only applied to personal computers
 that are compatible with the standards laid
 down by the company known as IBM
-(International Business Machines). Personal
+
 computers include desktop computers (for
 use on an office desk) and handheld
 computers that can be carried around by the
