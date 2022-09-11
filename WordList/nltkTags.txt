@@ -29,7 +29,8 @@ VBG: verb, gerund/present participle taking
 VBN: verb, past participle taken
 VBP: verb, sing. present, non-3d take
 VBZ: verb, 3rd person sing. present takes
-WDT: wh-determiner which
+WDT: wh-determiner which Belirteç 
 WP: wh-pronoun who, what
 WP$: possessive wh-pronoun whose
 WRB: wh-abverb where, when
+"
